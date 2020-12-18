@@ -1,0 +1,14 @@
+*{
+  --back:#00072d;
+  --text:#a6e1fa;
+  --button:#0a2472;
+   color:var(--text)!important;
+ 
+}
+.app{
+  text-align: center;
+  background: var(--back)!important;
+}
+.app>h1{
+  color:var(--text);
+}

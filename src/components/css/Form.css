@@ -1,0 +1,15 @@
+.formDiv{
+
+   text-align: center;
+   height: fit-content;
+  color:var(--text)!important;
+   
+}
+.addButton{
+   margin-right:10px!important;
+   background: var(--button) !important;
+}
+.addButton >.MuiSvgIcon-root{
+    
+    color:var(--text) !important;
+}
