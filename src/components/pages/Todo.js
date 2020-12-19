@@ -1,8 +1,8 @@
 import { Button, List, ListItem, ListItemText } from '@material-ui/core';
 import {
-  CheckBox,
+  
   Delete,
-  CheckBoxOutlineBlank
+ 
 } from "@material-ui/icons";
 import '../css/Todo.css'
 import React from 'react'
