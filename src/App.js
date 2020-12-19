@@ -1,7 +1,7 @@
-import logo from './logo.svg';
+
 import './App.css'
 import Form from './components/pages/Form';
-import { useState } from 'react';
+import { React, useState } from 'react';
 import TodoLIst from './components/pages/TodoLIst';
 
 function App() {
